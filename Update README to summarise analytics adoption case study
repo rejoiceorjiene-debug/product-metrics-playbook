@@ -1,0 +1,44 @@
+**Analytics Product Adoption & Insight Case Study**
+A public, product-led case study analysing adoption challenges in an open-source analytics platform (Apache Superset), with a focus on shifting success from usage metrics to decision impact.
+
+**Product Context**
+Analytics products are widely adopted across organisations, but high usage does not always translate into better decisions. Dashboards are often created and viewed without leading to insight or action.
+
+**Problem Statement**
+Dashboards are created and consumed, but they do not consistently drive decisions, resulting in a gap between adoption and real business value.
+
+Defined in **Issue #1**
+**Success Metrics**
+Adoption is defined using **outcome-based metrics**, not activity:
+- **North Star:** % of active dashboards that lead to a documented decision or action
+- Supporting metrics include re-engagement, time to action, and dashboard retirement
+
+Defined in **Issue #2**  
+Artefact: `docs/adoption-metrics.md`
+
+**Solution Strategy**
+Three solution paths were explored:
+1. Decision-oriented dashboard templates
+2. Insight prompts and annotations
+3. Action triggers and follow-ups
+
+The chosen approach prioritised **decision-oriented templates**, supported by lightweight prompts.
+
+Decision documented in **Issue #3**  
+Artefact: `docs/solution-options.md`
+
+**Reflection & Learnings**
+Key learnings include:
+- Usage ≠ value in analytics products
+- Metrics shape behaviour as much as features
+- Opinionated guidance must balance flexibility
+
+Captured in **Issue #4**
+**What This Demonstrates**
+- Outcome-led product thinking
+- Analytics PM judgment beyond dashboards
+- Metric design and trade-off analysis
+- Clear decision documentation using GitHub workflows
+
+## Notes
+This case study uses public information and simulated metrics. It does not represent internal work for any organisation.
